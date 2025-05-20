@@ -14,7 +14,7 @@
     'use strict';
 
     // --- CONFIGURATION ---
-    const BANNED_EMOJIS = ['🇵🇸', '🏳️‍⚧️', '🔻', '🍉', '🌻', '🇻🇦', '☭','⚡','🌹','✝️'];
+    const BANNED_EMOJIS = ['🇵🇸', '🏳️‍⚧️', '🔻', '🍉', '🌻', '🇻🇦', '☭','⚡','🌹','✝️','👾','📕','✊','☦️','☪️','🔥','🪮','💰'];
     const CLICK_DELAY_MS = 800;
 
     // --- SCRIPT STATE ---
