@@ -1,6 +1,10 @@
-# Twitter/X Emoji User Blocker 🚫🤦
+<h align="center"> Twitter/X Emoji-in-Username Blocker 🚫🤦</h>
+<p align="center">
+  <img src="https://github.com/pelmeniboiler/x-quality-filter/blob/main/img/logo.png" alt="Beautiful AI Generated Image" width="118" height="118">
+ **Tired of your X (formerly Twitter) timeline being cluttered with low-quality content? This Tampermonkey script aims to help you curate a more meaningful feed by automatically blocking users whose display names feature specific emojis often associated with substandard posts.**
+</p>
 
-**Tired of your X (formerly Twitter) timeline being cluttered with low-quality content? This Tampermonkey script aims to help you curate a more meaningful feed by automatically blocking users whose display names feature specific emojis often associated with problematic posting patterns.**
+# TLDR: install tampermonkey paste script block slop win
 
 ## Low Quality Content
 
